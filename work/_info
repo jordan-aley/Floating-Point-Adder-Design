@@ -1,0 +1,1844 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final
+Eaddsubman
+Z1 w1589033828
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_COMPONENTS.vhd
+Z7 FC:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_COMPONENTS.vhd
+l0
+L321
+VHD>NNCATVc@Q^EzzkZIc;1
+!s100 4kGSoA:I`?CE88EJ[=2A<0
+Z8 OP;C;10.4a;61
+32
+Z9 !s110 1589036252
+!i10b 1
+Z10 !s108 1589036252.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_COMPONENTS.vhd|
+Z12 !s107 C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_COMPONENTS.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit -O0
+Z14 tExplicit 1
+Artl
+R2
+R3
+R4
+R5
+Z15 DEx4 work 9 addsubman 0 22 HD>NNCATVc@Q^EzzkZIc;1
+l336
+L335
+Z16 Vz=gC7zbmAE?F06DnoN>ge0
+Z17 !s100 nLik7:O1Q`MidV>nY[fcH0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Eaddsubpipeman
+R1
+Z18 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R4
+R5
+R0
+R6
+R7
+l0
+L378
+VBh5E7>12hGbITi4AEIFWH0
+!s100 Bo4H;;SWZJoe_=`DD[gae1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Artl
+R18
+R2
+R3
+R4
+R5
+Z19 DEx4 work 13 addsubpipeman 0 22 Bh5E7>12hGbITi4AEIFWH0
+l395
+L393
+Z20 VNG=S48ImZ3h:69@c2PVbG3
+Z21 !s100 Cn3dEndQ]HGVL8D:6=26l1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealey_finalreg
+R1
+R4
+R5
+R0
+R6
+R7
+l0
+L651
+VcGIU_YEFZ71I^D5Uol4M?0
+!s100 KdkNli@<2LhC815^;@E5K3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Areg16bit_arch
+R4
+R5
+Z22 DEx4 work 13 aley_finalreg 0 22 cGIU_YEFZ71I^D5Uol4M?0
+l668
+L664
+Z23 V7afeMzNa8TV@YC``09U672
+Z24 !s100 7MGWHWLQh8`b]^MdFZ1jF1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealey_first_bslice
+R1
+R2
+R4
+R5
+R0
+R6
+R7
+l0
+L699
+VbMIm2S8J32PfR:z_PP<0J3
+!s100 I53;bVQjhQGUY590AFjLW0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Abeh_first_bs
+R2
+R4
+R5
+Z25 DEx4 work 17 aley_first_bslice 0 22 bMIm2S8J32PfR:z_PP<0J3
+l713
+L709
+Z26 V?KS=b<;H0^`^l:_om[>5z3
+Z27 !s100 V1AeFJ]74fnoWG6cB74?F2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealey_firstreg
+R1
+R4
+R5
+R0
+R6
+R7
+l0
+L815
+V<N:=5TC8;<T`C80KJWlDG1
+!s100 Z9L8ZNUn]a?Vg@2=e70OC0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Areg16bit_arch
+R4
+R5
+Z28 DEx4 work 13 aley_firstreg 0 22 <N:=5TC8;<T`C80KJWlDG1
+l844
+L836
+Z29 V8X=`JEdbR[EV]cIdXK2Ko0
+Z30 !s100 R@_hXJl>L_ZFYkEB;V^9m2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealey_floatadd
+Z31 w1589033848
+Z32 DPx8 synopsys 10 attributes 0 22 liCm]LV3<lX4Zl>o6^8IV1
+Z33 DPx4 ieee 14 std_logic_misc 0 22 BLzBaQbXS>Q1z>5YO]m[52
+R2
+R3
+R4
+R5
+R0
+Z34 8C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_FLOATADD.vhd
+Z35 FC:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_FLOATADD.vhd
+l0
+L9
+VML1PZzkC<MSX:Ea2?=]:=3
+!s100 1c]:He8ETE@701Qn4ezcS1
+R8
+32
+R9
+!i10b 1
+Z36 !s108 1589036251.000000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_FLOATADD.vhd|
+Z38 !s107 C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_FLOATADD.vhd|
+!i113 1
+R13
+R14
+Artl
+R32
+R33
+R2
+R3
+R4
+R5
+Z39 DEx4 work 13 aley_floatadd 0 22 ML1PZzkC<MSX:Ea2?=]:=3
+l193
+L20
+VooVUSzdKGC[_Ldj<R8L383
+!s100 =`1fNUCEQ=`>eIEag_4h12
+R8
+32
+R9
+!i10b 1
+R36
+R37
+R38
+!i113 1
+R13
+R14
+Ealey_floatadd_pipe
+Z40 w1589033699
+R32
+R33
+R2
+R3
+R4
+R5
+R0
+Z41 8C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_FLOATADD_PIPIE.vhd
+Z42 FC:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_FLOATADD_PIPIE.vhd
+l0
+L9
+V1lTd>k^giBIZ0BX2EOHC82
+!s100 2;Kb9@gf`j1KDA1f5CK0X3
+R8
+32
+Z43 !s110 1589036248
+!i10b 1
+Z44 !s108 1589036248.000000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_FLOATADD_PIPIE.vhd|
+Z46 !s107 C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_FLOATADD_PIPIE.vhd|
+!i113 1
+R13
+R14
+Artl
+R32
+R33
+R2
+R3
+R4
+R5
+Z47 DEx4 work 18 aley_floatadd_pipe 0 22 1lTd>k^giBIZ0BX2EOHC82
+l234
+L20
+VTcFD>cz2aRnj>lQ41k>dR0
+!s100 2f@KFb>Ll[j=21<8?lIhI1
+R8
+32
+R43
+!i10b 1
+R44
+R45
+R46
+!i113 1
+R13
+R14
+Ealey_gen_bslice
+R1
+R2
+R4
+R5
+R0
+R6
+R7
+l0
+L728
+V[XYXeUNHXjOhEE5@XVUD70
+!s100 ?agYBo^J6OK;chB5IeGh60
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Abeh_bs
+R2
+R4
+R5
+Z48 DEx4 work 15 aley_gen_bslice 0 22 [XYXeUNHXjOhEE5@XVUD70
+l741
+L739
+Z49 Vd;18HFdod7[2zlAlKhBA]1
+Z50 !s100 n8Vh`3FH4i@2BaU9?lzT02
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealey_genreg
+R1
+R4
+R5
+R0
+R6
+R7
+l0
+L892
+V;Rz[OogKZ`aOaj@70oMQG3
+!s100 ]:C0;3i4b_fE=>nDodA2L2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Areg16bit_arch
+R4
+R5
+Z51 DEx4 work 11 aley_genreg 0 22 ;Rz[OogKZ`aOaj@70oMQG3
+l921
+L914
+Z52 V2L_c^0WkaP_>]eQ0Sbz162
+Z53 !s100 [M?HXTV[^2[zo=YK6oYf30
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealey_groupbryant_finalreg
+Z54 w1589033918
+R4
+R5
+R0
+Z55 8C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_COMPONENTS.vhd
+Z56 FC:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_COMPONENTS.vhd
+l0
+L651
+VYJD<zaG<J;k;E1KEjCgTJ3
+!s100 fgdKTX_nMghc6KT`_nW<b1
+R8
+32
+R43
+!i10b 1
+R44
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_COMPONENTS.vhd|
+Z58 !s107 C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_COMPONENTS.vhd|
+!i113 1
+R13
+R14
+Areg16bit_arch
+R4
+R5
+DEx4 work 25 aley_groupbryant_finalreg 0 22 YJD<zaG<J;k;E1KEjCgTJ3
+l668
+L664
+VAb:W?_d5Om[?K]8C9lic?2
+!s100 S?ImiJ7T;@Tm46E>neLH01
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Ealey_groupbryant_first_bslice
+R54
+R2
+R4
+R5
+R0
+R55
+R56
+l0
+L699
+V912CePi@1LP?^<THPjeD[2
+!s100 ooD_bCSa24ja5^YnQbFSi0
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Abeh_first_bs
+R2
+R4
+R5
+DEx4 work 29 aley_groupbryant_first_bslice 0 22 912CePi@1LP?^<THPjeD[2
+l713
+L709
+VABnl@JF4>_PeN9[7zJiXY2
+!s100 CJ@5Rb]6=X3cTVT5?3^Vf2
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Ealey_groupbryant_firstreg
+R54
+R4
+R5
+R0
+R55
+R56
+l0
+L815
+V4VQJ9;d`4CYYmhY;=c8bX2
+!s100 na=fjjgjEW2^;QVRU]RgI3
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Areg16bit_arch
+R4
+R5
+DEx4 work 25 aley_groupbryant_firstreg 0 22 4VQJ9;d`4CYYmhY;=c8bX2
+l844
+L836
+VP=d0f`;:?D=T2e83^@`l21
+!s100 NK=n^fi4<@a9eQl?4z;8^3
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Ealey_groupbryant_fpadd_addcore
+Z59 w1589033783
+R32
+R33
+R2
+R3
+R4
+R5
+R0
+Z60 8C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_ADDCORE.vhd
+Z61 FC:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_ADDCORE.vhd
+l0
+L9
+VlbB0J0[4B`iM[4W28K?Fg3
+!s100 24RX=2?ie1Ni_^;3VQgl>2
+R8
+32
+R43
+!i10b 1
+R44
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_ADDCORE.vhd|
+Z63 !s107 C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_ADDCORE.vhd|
+!i113 1
+R13
+R14
+Artl
+R32
+R33
+R2
+R3
+R4
+R5
+Z64 DEx4 work 30 aley_groupbryant_fpadd_addcore 0 22 lbB0J0[4B`iM[4W28K?Fg3
+l234
+L20
+V@KLj5`5mkFaaeh57>26E]3
+!s100 RnRbHzJQnIfJBOXkL2ARf2
+R8
+32
+R43
+!i10b 1
+R44
+R62
+R63
+!i113 1
+R13
+R14
+Ealey_groupbryant_fpadd_vendor
+Z65 w1589033897
+R32
+R33
+R2
+R3
+R4
+R5
+R0
+Z66 8C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_VENDOR.vhd
+Z67 FC:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_VENDOR.vhd
+l0
+L9
+Vk22UBZUzP2ZLJ=]YQMG<j2
+!s100 PUTGn]zBSciH;XWN7Sjf02
+R8
+32
+Z68 !s110 1589036249
+!i10b 1
+Z69 !s108 1589036249.000000
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_VENDOR.vhd|
+Z71 !s107 C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_VENDOR.vhd|
+!i113 1
+R13
+R14
+Artl
+R32
+R33
+R2
+R3
+R4
+R5
+Z72 DEx4 work 29 aley_groupbryant_fpadd_vendor 0 22 k22UBZUzP2ZLJ=]YQMG<j2
+l193
+L20
+VjZ;?ALj7e?PY?a]nlL37J1
+!s100 P5>X:T?LfzgcOU2lJUZhH3
+R8
+32
+R68
+!i10b 1
+R69
+R70
+R71
+!i113 1
+R13
+R14
+Ealey_groupbryant_gen_bslice
+R54
+R2
+R4
+R5
+R0
+R55
+R56
+l0
+L728
+VNlS6e4FUI9;Ljh>E<ODSz2
+!s100 nh?mTUT:m<Md5hLH=JJXF0
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Abeh_bs
+R2
+R4
+R5
+DEx4 work 27 aley_groupbryant_gen_bslice 0 22 NlS6e4FUI9;Ljh>E<ODSz2
+l741
+L739
+V2nYH<[MH61Vn^zH^1Im?A0
+!s100 FVKXgBMVYgBM4`T:L>^nc1
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Ealey_groupbryant_genreg
+R54
+R4
+R5
+R0
+R55
+R56
+l0
+L892
+VRVLG=inn_k]Kn:cmYOMRO3
+!s100 @lzM51h^T8dkJUjJ=;hAd2
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Areg16bit_arch
+R4
+R5
+DEx4 work 23 aley_groupbryant_genreg 0 22 RVLG=inn_k]Kn:cmYOMRO3
+l921
+L914
+VQ>G_naOMWh]clY;=0GPMB2
+!s100 SXmKb[E`HG15Yf?bC@02j3
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Ealey_groupbryant_lastreg
+R54
+R4
+R5
+R0
+R55
+R56
+l0
+L754
+VSXMF0io0V?bINzjZ[C<0D2
+!s100 ;>Y6oaKTkV?>`zWO_elWC2
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Areg16bit_arch
+R4
+R5
+DEx4 work 24 aley_groupbryant_lastreg 0 22 SXMF0io0V?bINzjZ[C<0D2
+l778
+L772
+VH1nFnIVZPB>jeIYmgEAOX2
+!s100 >aAE^^9fDjhYB8NFY:1l32
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Ealey_groupbryant_rca_6b
+R54
+R2
+R4
+R5
+R0
+R55
+R56
+l0
+L972
+VDF[T8eJPI^mQCf<bkG<RD3
+!s100 j]:cee_>Fj7PUFSj=0SHo3
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Abeh
+R2
+R4
+R5
+DEx4 work 23 aley_groupbryant_rca_6b 0 22 DF[T8eJPI^mQCf<bkG<RD3
+Z73 l1148
+L989
+Vg]D2WMA4[>63QL8dJP2a03
+!s100 ]<AbEcXO[PCV>kZ6VgSUN2
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Ealey_groupbryant_rca_first_6b
+R54
+R2
+R4
+R5
+R0
+R55
+R56
+l0
+Z74 L1232
+Ve<dT]5SiEP=:V[;ofA?cY2
+!s100 i<];7efQJ@bMXlB;i;:B01
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Abeh_first_6b
+R2
+R4
+R5
+DEx4 work 29 aley_groupbryant_rca_first_6b 0 22 e<dT]5SiEP=:V[;ofA?cY2
+Z75 l1282
+Z76 L1245
+VH0mVJXF`dU_z`QG2m:BT80
+!s100 RBe:zWRb7GdecMCj`GYUi1
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Ealey_groupbryant_rca_gen_2b
+R54
+R2
+R4
+R5
+R0
+R55
+R56
+l0
+Z77 L1178
+V^hzSV0N8V1I96nA]Xz_c:0
+!s100 PhnZR]<H]m4md55Ta7k801
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Abeh_gen_2b
+R2
+R4
+R5
+DEx4 work 27 aley_groupbryant_rca_gen_2b 0 22 ^hzSV0N8V1I96nA]Xz_c:0
+Z78 l1213
+Z79 L1193
+V8]7gdF?8=T2F7gPS:d2nG0
+!s100 aLQOl3AlV6YmzflC=GDUW1
+R8
+32
+R43
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Ealey_groupbryant_rca_gen_6b
+R54
+R2
+R4
+R5
+R0
+R55
+R56
+l0
+Z80 L1311
+V=hl:>3ChbS=Lf5oG8KKZi2
+!s100 hEn1G6C=d>NoH^VShJBO^1
+R8
+32
+R68
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Abeh_gen_6b
+R2
+R4
+R5
+DEx4 work 27 aley_groupbryant_rca_gen_6b 0 22 =hl:>3ChbS=Lf5oG8KKZi2
+Z81 l1353
+Z82 L1325
+VET]QL3`oJMJj7QLVkgNJi3
+!s100 9I_dPLUR]oYKY=I]2l>=B0
+R8
+32
+R68
+!i10b 1
+R44
+R57
+R58
+!i113 1
+R13
+R14
+Ealey_lastreg
+R1
+R4
+R5
+R0
+R6
+R7
+l0
+L754
+V^UhlGNCk=YlSATn[Cc^QY0
+!s100 O61VIW2cd`4DHBzQ_K:562
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Areg16bit_arch
+R4
+R5
+Z83 DEx4 work 12 aley_lastreg 0 22 ^UhlGNCk=YlSATn[Cc^QY0
+l778
+L772
+Z84 VCZcf:H=`CbLm^NMoPWQ>l3
+Z85 !s100 <UUSb]WSFaF5TeJNDfS5L3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealey_rca_6b
+R1
+R2
+R4
+R5
+R0
+R6
+R7
+l0
+L972
+VlCVPDgEBN35k6RB58i9cj2
+!s100 RI^nCjKHO76TJgNjM`RcB0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Abeh
+R2
+R4
+R5
+Z86 DEx4 work 11 aley_rca_6b 0 22 lCVPDgEBN35k6RB58i9cj2
+R73
+L989
+Z87 V>mIzb^Kl2g`374EV;UY_`2
+Z88 !s100 MD60A;O]:i>Hm@G5@BA6G0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealey_rca_first_6b
+R1
+R2
+R4
+R5
+R0
+R6
+R7
+l0
+R74
+VKoYBUHB?hFC>OTk8FnEff2
+!s100 nS<bJNz?Q`jWGE=k4kFe[1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Abeh_first_6b
+R2
+R4
+R5
+Z89 DEx4 work 17 aley_rca_first_6b 0 22 KoYBUHB?hFC>OTk8FnEff2
+R75
+R76
+Z90 VRAe7A`ozmk<6e@X2I06mn1
+Z91 !s100 Wnlz4Y@mG=Jo6=Wl8hnDh0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealey_rca_gen_2b
+R1
+R2
+R4
+R5
+R0
+R6
+R7
+l0
+R77
+VNJ8H<I?@0:U><hCa9J_1Z1
+!s100 9`FFl6^lK`:HIj^TlXl3`2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Abeh_gen_2b
+R2
+R4
+R5
+Z92 DEx4 work 15 aley_rca_gen_2b 0 22 NJ8H<I?@0:U><hCa9J_1Z1
+R78
+R79
+Z93 VN:iA9lnzdnS:jXU59mcF40
+Z94 !s100 8co5UUcNKYMHXej^E6o[60
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ealey_rca_gen_6b
+R1
+R2
+R4
+R5
+R0
+R6
+R7
+l0
+R80
+V:j:agcIFc1CO]0cYEe8IB3
+!s100 S8lol?aQkdB3@81QjR1L23
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Abeh_gen_6b
+R2
+R4
+R5
+Z95 DEx4 work 15 aley_rca_gen_6b 0 22 :j:agcIFc1CO]0cYEe8IB3
+R81
+R82
+Z96 V>BOk?;Tlbo59G@HC3ZVE22
+Z97 !s100 T_Z]`n7CPcm3HY@ERiMF]1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ccfg_tb_aley_floatadd
+etb_ALEY_FLOATADD
+Z98 aTESTBENCH
+Z99 DEx4 work 5 clock 0 22 BJ_N`S7LaHPBN_`NNg8c=0
+R32
+R33
+R2
+R3
+R39
+DAx4 work 16 tb_aley_floatadd 9 testbench 22 >V6PK[mca:Vz^kGob5aDj0
+Z100 DPx4 work 8 txt_util 0 22 [g4TlI6Md[=?O_ZLEz3kI3
+Z101 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R4
+R5
+Z102 DPx4 work 6 clocks 0 22 1@2:0O9>FT`kdM>VkbCTH3
+Z103 DEx4 work 16 tb_aley_floatadd 0 22 ?F_o8D`OohEol;]bzC0KO2
+Z104 w1589033941
+R0
+Z105 8C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_FLOATADD.vhd
+Z106 FC:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_FLOATADD.vhd
+l0
+L230
+V68]d>g4lH6?ll?Gi>P`F80
+!s100 i8PL6GDHEG^z1<kacEdnF3
+R8
+32
+R68
+!i10b 0
+R69
+Z107 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_FLOATADD.vhd|
+Z108 !s107 C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_FLOATADD.vhd|
+!i113 1
+R13
+R14
+Ccfg_tb_aley_floatadd_pipe
+etb_ALEY_FLOATADD_PIPE
+R98
+R99
+R32
+R33
+R2
+R3
+R47
+DAx4 work 21 tb_aley_floatadd_pipe 9 testbench 22 mBcS5ESN73d4N?lA9nliG1
+R100
+R101
+R4
+R5
+R102
+Z109 DEx4 work 21 tb_aley_floatadd_pipe 0 22 1D^8f7bJjWfN:R1O;4Wi_0
+Z110 w1589033671
+R0
+Z111 8C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_FLOATADD_PIPE.vhd
+Z112 FC:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_FLOATADD_PIPE.vhd
+l0
+L231
+VB;C>YJdj5DE2Ti;@h6aOF0
+!s100 _<Y77EKH3OU[fIiDX^Y0D0
+R8
+32
+Z113 !s110 1589036250
+!i10b 0
+Z114 !s108 1589036250.000000
+Z115 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_FLOATADD_PIPE.vhd|
+Z116 !s107 C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_FLOATADD_PIPE.vhd|
+!i113 1
+R13
+R14
+Ccfg_tb_aley_groupbryant_fpadd_addcore
+etb_ALEY_GroupBryant_FPADD_ADDCORE
+R98
+R99
+R32
+R33
+R2
+R3
+R64
+DAx4 work 33 tb_aley_groupbryant_fpadd_addcore 9 testbench 22 JY?Be0fMzNjDa5c[RMjUg2
+R100
+R101
+R4
+R5
+R102
+Z117 DEx4 work 33 tb_aley_groupbryant_fpadd_addcore 0 22 fEcLiNYEnYM]Y8GzbR:e^2
+Z118 w1589033964
+R0
+Z119 8C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_GroupBryant_FPADD_ADDCORE.vhd
+Z120 FC:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_GroupBryant_FPADD_ADDCORE.vhd
+l0
+L231
+V8[dGiag;4Z89?:ZRL5K4z0
+!s100 EAUgdELRZQ_VDegZT?Ao=1
+R8
+32
+R113
+!i10b 0
+R114
+Z121 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_GroupBryant_FPADD_ADDCORE.vhd|
+Z122 !s107 C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_GroupBryant_FPADD_ADDCORE.vhd|
+!i113 1
+R13
+R14
+Ccfg_tb_aley_groupbryant_fpadd_vendor
+etb_ALEY_GroupBryant_FPADD_VENDOR
+R98
+R99
+R32
+R33
+R2
+R3
+R72
+DAx4 work 32 tb_aley_groupbryant_fpadd_vendor 9 testbench 22 JY1B>9[DZgKc;`6IHZ6lW3
+R100
+R101
+R4
+R5
+R102
+Z123 DEx4 work 32 tb_aley_groupbryant_fpadd_vendor 0 22 ^dZOiL]cidUm>?Peh=k3S2
+Z124 w1589036231
+R0
+Z125 8C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_GroupBryant_FPADD_VENDOR.vhd
+Z126 FC:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_GroupBryant_FPADD_VENDOR.vhd
+l0
+L230
+Vdlj=1PRoB6:j?2P;[FQ313
+!s100 8hDg@nFf>G33C<?>Uakjn2
+R8
+32
+Z127 !s110 1589036251
+!i10b 0
+R114
+Z128 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_GroupBryant_FPADD_VENDOR.vhd|
+Z129 !s107 C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_GroupBryant_FPADD_VENDOR.vhd|
+!i113 1
+R13
+R14
+Eclock
+Z130 w1588961658
+R4
+R5
+R0
+Z131 8C:/Users/al3y0/Downloads/FinalProj2.0/FinalProj/clock.vhd
+Z132 FC:/Users/al3y0/Downloads/FinalProj2.0/FinalProj/clock.vhd
+l0
+L90
+VBJ_N`S7LaHPBN_`NNg8c=0
+!s100 kBfTcSciLe`D8eAQkFdT02
+R8
+32
+R127
+!i10b 1
+R36
+Z133 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/al3y0/Downloads/FinalProj2.0/FinalProj/clock.vhd|
+Z134 !s107 C:/Users/al3y0/Downloads/FinalProj2.0/FinalProj/clock.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R4
+R5
+R99
+l97
+L94
+VnjUYQ`KKLnX]lzdeiY7:V2
+!s100 @TEnz@6U=jFD1a3;liBRV3
+R8
+32
+R127
+!i10b 1
+R36
+R133
+R134
+!i113 1
+R13
+R14
+Pclocks
+R101
+R4
+R5
+R130
+R0
+R131
+R132
+l0
+L7
+V1@2:0O9>FT`kdM>VkbCTH3
+!s100 V=QgQHBoCBX?cljYQ]zi>1
+R8
+32
+b1
+R127
+!i10b 1
+R36
+R133
+R134
+!i113 1
+R13
+R14
+Bbody
+R102
+R101
+R4
+R5
+l0
+L21
+Vd2>M80RT]kBZfcabU@`k23
+!s100 UU>Bm=]JnSjDZk`0`H9Hi3
+R8
+32
+R127
+!i10b 1
+R36
+R133
+R134
+!i113 1
+R13
+R14
+Z135 nbody
+Ecompareexp
+R1
+R2
+R4
+R5
+R0
+R6
+R7
+l0
+L7
+VNz8DUzKm^?8P1oHGmgHo42
+!s100 7FVZ]O=]TC7MoeP[ca^4=1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Artl
+R2
+R4
+R5
+Z136 DEx4 work 10 compareexp 0 22 Nz8DUzKm^?8P1oHGmgHo42
+l25
+L24
+Z137 V^bKUni2HDWn`cF`o8H?QI3
+Z138 !s100 ED=0IifmL^jY^:kd;>I<02
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ecompareman
+R1
+R32
+R33
+R2
+R3
+R4
+R5
+R0
+R6
+R7
+l0
+L229
+VDH<UG[:d6F?JmUKJbD6fM2
+!s100 _`=[6:`:7MmZQkoIY<>cK1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Acompare
+R32
+R33
+R2
+R3
+R4
+R5
+Z139 DEx4 work 10 compareman 0 22 DH<UG[:d6F?JmUKJbD6fM2
+l254
+L248
+Z140 V]HhUR[lg?:jdl5lmI9m^:1
+Z141 !s100 QPX4:@a6_V[k4^UWZ_R1a2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ecomputeshift
+R1
+R32
+R33
+R2
+R3
+R4
+R5
+R0
+R6
+R7
+l0
+L75
+V1TXZ@24aaf4YofUT>:V7N3
+!s100 414=<Q8;jbF=YchDKk8O52
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Artl
+R32
+R33
+R2
+R3
+R4
+R5
+Z142 DEx4 work 12 computeshift 0 22 1TXZ@24aaf4YofUT>:V7N3
+l98
+L97
+Z143 V:NeYS0oK^SZF=JmCjM@=13
+Z144 !s100 fVlUU0RHz9c;V@^:GWb150
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Elc3_memory
+R130
+R2
+R3
+R101
+R4
+R5
+R102
+R0
+R131
+R132
+l0
+L118
+VMGiiZa5>;6ERbheXPOGFC2
+!s100 X>becR6[DiBPVE_@zm>[12
+R8
+32
+R127
+!i10b 1
+R36
+R133
+R134
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R3
+R101
+R4
+R5
+R102
+DEx4 work 10 lc3_memory 0 22 MGiiZa5>;6ERbheXPOGFC2
+l130
+L129
+VmKc8HjH2@]Jb^JUJRjjom3
+!s100 ]UIT8kCQRcegC`<cBmUh90
+R8
+32
+R127
+!i10b 1
+R36
+R133
+R134
+!i113 1
+R13
+R14
+Enorm1
+R1
+R2
+R3
+R4
+R5
+R0
+R6
+R7
+l0
+L440
+VcXzBVB?5anYCfX=S>G2:Q3
+!s100 JS:F@8nLHI_609h98FCF50
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Artl
+R2
+R3
+R4
+R5
+Z145 DEx4 work 5 norm1 0 22 cXzBVB?5anYCfX=S>G2:Q3
+l456
+L453
+Z146 VDe=??Lk@j]Qj_ZCmFPBWf1
+Z147 !s100 YPI37]7JdK6I4L1H;U^_U2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Enorm2
+R1
+R2
+R3
+R4
+R5
+R0
+R6
+R7
+l0
+L599
+Vj8ibm5BK769OWcQXEiYhX1
+!s100 =zG4i5Kh[L76;>Vm6_?ED1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Artl
+R2
+R3
+R4
+R5
+Z148 DEx4 work 5 norm2 0 22 j8ibm5BK769OWcQXEiYhX1
+l612
+L611
+Z149 VT73ne<SZ@k0WDHH0]CS`^1
+Z150 !s100 m3HG>>SGbV8j>JBh<7Q7n0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Eshiftman
+R1
+R32
+R33
+R2
+R3
+R4
+R5
+R0
+R6
+R7
+l0
+L138
+Ve`k80CdG7DbfQCJUeS]240
+!s100 o1AJD`2e_@;8Qk54[akaD0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Artl
+R32
+R33
+R2
+R3
+R4
+R5
+Z151 DEx4 work 8 shiftman 0 22 e`k80CdG7DbfQCJUeS]240
+l166
+L160
+Z152 V<=KD]^DJCElni]A^L;JES0
+Z153 !s100 _^>mMQQ3IFlK?Qz8C_3Tj1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Etb_aley_floatadd
+R104
+R100
+R101
+R4
+R5
+R102
+R0
+R105
+R106
+l0
+L18
+V?F_o8D`OohEol;]bzC0KO2
+!s100 a:NS[cGI:zQXGP4C>C4@K3
+R8
+32
+R68
+!i10b 1
+R69
+R107
+R108
+!i113 1
+R13
+R14
+Atestbench
+R100
+R101
+R4
+R5
+R102
+R103
+l81
+L21
+V>V6PK[mca:Vz^kGob5aDj0
+!s100 eEm9E=On6llAZd`FDm7?k3
+R8
+32
+R68
+!i10b 1
+R69
+R107
+R108
+!i113 1
+R13
+R14
+Etb_aley_floatadd_pipe
+R110
+R100
+R101
+R4
+R5
+R102
+R0
+R111
+R112
+l0
+L19
+V1D^8f7bJjWfN:R1O;4Wi_0
+!s100 0>9Y^Bz1KNbbd?Rz6XWdC3
+R8
+32
+R113
+!i10b 1
+R114
+R115
+R116
+!i113 1
+R13
+R14
+Atestbench
+R100
+R101
+R4
+R5
+R102
+R109
+l82
+L22
+VmBcS5ESN73d4N?lA9nliG1
+!s100 4ITkYPF4@@^i1DSc;HQBC2
+R8
+32
+R113
+!i10b 1
+R114
+R115
+R116
+!i113 1
+R13
+R14
+Etb_aley_groupbryant_fpadd_addcore
+R118
+R100
+R101
+R4
+R5
+R102
+R0
+R119
+R120
+l0
+L19
+VfEcLiNYEnYM]Y8GzbR:e^2
+!s100 mT4Nmf5ec9oPi>SQnNWSj0
+R8
+32
+R113
+!i10b 1
+R114
+R121
+R122
+!i113 1
+R13
+R14
+Atestbench
+R100
+R101
+R4
+R5
+R102
+R117
+l82
+L22
+VJY?Be0fMzNjDa5c[RMjUg2
+!s100 56SWnA1hQFDAE?Xf:@bK;0
+R8
+32
+R113
+!i10b 1
+R114
+R121
+R122
+!i113 1
+R13
+R14
+Etb_aley_groupbryant_fpadd_vendor
+R124
+R100
+R101
+R4
+R5
+R102
+R0
+R125
+R126
+l0
+L18
+V^dZOiL]cidUm>?Peh=k3S2
+!s100 bMg:ZNc`bk@<>V>`dal8c0
+R8
+32
+R127
+!i10b 1
+R114
+R128
+R129
+!i113 1
+R13
+R14
+Atestbench
+R100
+R101
+R4
+R5
+R102
+R123
+l81
+L21
+VJY1B>9[DZgKc;`6IHZ6lW3
+!s100 `;L1RB]XQVJm[LF>NBl7?2
+R8
+32
+R127
+!i10b 1
+R114
+R128
+R129
+!i113 1
+R13
+R14
+Ptxt_util
+R4
+R5
+Z154 w1588961659
+R0
+Z155 8C:/Users/al3y0/Downloads/FinalProj2.0/FinalProj/txt_util.vhd
+Z156 FC:/Users/al3y0/Downloads/FinalProj2.0/FinalProj/txt_util.vhd
+l0
+L6
+V[g4TlI6Md[=?O_ZLEz3kI3
+!s100 C4m7@Ec3EHGT9<Hd<k8;n0
+R8
+32
+b1
+R127
+!i10b 1
+R36
+Z157 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/al3y0/Downloads/FinalProj2.0/FinalProj/txt_util.vhd|
+Z158 !s107 C:/Users/al3y0/Downloads/FinalProj2.0/FinalProj/txt_util.vhd|
+!i113 1
+R13
+R14
+Bbody
+R100
+R4
+R5
+l0
+L89
+Vd>@;D?YbZGhe[F`72e?k50
+!s100 C4ZeJVQGBo4[zZm^8kGcR3
+R8
+32
+R127
+!i10b 1
+R36
+R157
+R158
+!i113 1
+R13
+R14
+R135

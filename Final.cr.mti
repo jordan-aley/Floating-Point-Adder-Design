@@ -1,0 +1,249 @@
+{C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_COMPONENTS.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_COMPONENTS.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity CompareExp
+-- Compiling architecture RTL of CompareExp
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Compiling entity ComputeShift
+-- Compiling architecture RTL of ComputeShift
+-- Compiling entity ShiftMan
+-- Compiling architecture RTL of ShiftMan
+-- Compiling entity CompareMan
+-- Compiling architecture COMPARE of CompareMan
+-- Compiling entity AddSubMan
+-- Compiling architecture RTL of AddSubMan
+-- Loading package NUMERIC_STD
+-- Compiling entity AddSubPipeMan
+-- Compiling architecture RTL of AddSubPipeMan
+-- Compiling entity Norm1
+-- Compiling architecture RTL of Norm1
+-- Compiling entity Norm2
+-- Compiling architecture RTL of Norm2
+-- Compiling entity ALEY_FinalReg
+-- Compiling architecture reg16bit_arch of ALEY_FinalReg
+-- Compiling entity ALEY_First_BSlice
+-- Compiling architecture BEH_first_BS of ALEY_First_BSlice
+-- Compiling entity ALEY_GEN_BSlice
+-- Compiling architecture BEH_BS of ALEY_GEN_BSlice
+-- Compiling entity ALEY_LastReg
+-- Compiling architecture reg16bit_arch of ALEY_LastReg
+-- Compiling entity ALEY_FirstReg
+-- Compiling architecture reg16bit_arch of ALEY_FirstReg
+-- Compiling entity ALEY_GenReg
+-- Compiling architecture reg16bit_arch of ALEY_GenReg
+-- Compiling entity ALEY_RCA_6B
+-- Compiling architecture BEH of ALEY_RCA_6B
+-- Compiling entity ALEY_RCA_GEN_2B
+-- Compiling architecture beh_gen_2B of ALEY_RCA_GEN_2B
+-- Compiling entity ALEY_RCA_First_6B
+-- Compiling architecture beh_first_6B of ALEY_RCA_First_6B
+-- Compiling entity ALEY_RCA_GEN_6B
+-- Compiling architecture beh_gen_6B of ALEY_RCA_GEN_6B
+
+} {} {}} {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_FLOATADD.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_FLOATADD.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Compiling entity ALEY_FLOATADD
+-- Compiling architecture RTL of ALEY_FLOATADD
+
+} {} {}} C:/Users/al3y0/Downloads/FinalProj2.0/FinalProj/clock.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/al3y0/Downloads/FinalProj2.0/FinalProj/clock.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Compiling package CLOCKS
+-- Compiling package body CLOCKS
+-- Loading package CLOCKS
+-- Compiling entity CLOCK
+-- Compiling architecture BEHAVIOR of CLOCK
+-- Loading package CLOCKS
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity LC3_MEMORY
+-- Compiling architecture behavioral of LC3_MEMORY
+
+} {} {}} {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_GroupBryant_FPADD_ADDCORE.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_GroupBryant_FPADD_ADDCORE.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package CLOCKS
+-- Loading package txt_util
+-- Compiling entity tb_ALEY_GroupBryant_FPADD_ADDCORE
+-- Compiling architecture TESTBENCH of tb_ALEY_GroupBryant_FPADD_ADDCORE
+-- Compiling configuration cfg_tb_ALEY_GroupBryant_FPADD_ADDCORE
+-- Loading entity tb_ALEY_GroupBryant_FPADD_ADDCORE
+-- Loading architecture TESTBENCH of tb_ALEY_GroupBryant_FPADD_ADDCORE
+-- Loading entity CLOCK
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Loading entity ALEY_GroupBryant_FPADD_ADDCORE
+
+} {} {}} C:/Users/al3y0/Downloads/FinalProj2.0/FinalProj/txt_util.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/al3y0/Downloads/FinalProj2.0/FinalProj/txt_util.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package txt_util
+-- Compiling package body txt_util
+-- Loading package txt_util
+
+} {} {}} {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_GroupBryant_FPADD_VENDOR.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_GroupBryant_FPADD_VENDOR.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package CLOCKS
+-- Loading package txt_util
+-- Compiling entity tb_ALEY_GroupBryant_FPADD_VENDOR
+-- Compiling architecture TESTBENCH of tb_ALEY_GroupBryant_FPADD_VENDOR
+-- Compiling configuration cfg_tb_ALEY_GroupBryant_FPADD_VENDOR
+-- Loading entity tb_ALEY_GroupBryant_FPADD_VENDOR
+-- Loading architecture TESTBENCH of tb_ALEY_GroupBryant_FPADD_VENDOR
+-- Loading entity CLOCK
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Loading entity ALEY_GroupBryant_FPADD_VENDOR
+
+} {} {}} {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_COMPONENTS.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_COMPONENTS.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity CompareExp
+-- Compiling architecture RTL of CompareExp
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Compiling entity ComputeShift
+-- Compiling architecture RTL of ComputeShift
+-- Compiling entity ShiftMan
+-- Compiling architecture RTL of ShiftMan
+-- Compiling entity CompareMan
+-- Compiling architecture COMPARE of CompareMan
+-- Compiling entity AddSubMan
+-- Compiling architecture RTL of AddSubMan
+-- Loading package NUMERIC_STD
+-- Compiling entity AddSubPipeMan
+-- Compiling architecture RTL of AddSubPipeMan
+-- Compiling entity Norm1
+-- Compiling architecture RTL of Norm1
+-- Compiling entity Norm2
+-- Compiling architecture RTL of Norm2
+-- Compiling entity ALEY_GroupBryant_FinalReg
+-- Compiling architecture reg16bit_arch of ALEY_GroupBryant_FinalReg
+-- Compiling entity ALEY_GroupBryant_First_BSlice
+-- Compiling architecture BEH_first_BS of ALEY_GroupBryant_First_BSlice
+-- Compiling entity ALEY_GroupBryant_GEN_BSlice
+-- Compiling architecture BEH_BS of ALEY_GroupBryant_GEN_BSlice
+-- Compiling entity ALEY_GroupBryant_LastReg
+-- Compiling architecture reg16bit_arch of ALEY_GroupBryant_LastReg
+-- Compiling entity ALEY_GroupBryant_FirstReg
+-- Compiling architecture reg16bit_arch of ALEY_GroupBryant_FirstReg
+-- Compiling entity ALEY_GroupBryant_GenReg
+-- Compiling architecture reg16bit_arch of ALEY_GroupBryant_GenReg
+-- Compiling entity ALEY_GroupBryant_RCA_6B
+-- Compiling architecture BEH of ALEY_GroupBryant_RCA_6B
+-- Compiling entity ALEY_GroupBryant_RCA_GEN_2B
+-- Compiling architecture beh_gen_2B of ALEY_GroupBryant_RCA_GEN_2B
+-- Compiling entity ALEY_GroupBryant_RCA_First_6B
+-- Compiling architecture beh_first_6B of ALEY_GroupBryant_RCA_First_6B
+-- Compiling entity ALEY_GroupBryant_RCA_GEN_6B
+-- Compiling architecture beh_gen_6B of ALEY_GroupBryant_RCA_GEN_6B
+
+} {} {}} {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_VENDOR.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_VENDOR.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Compiling entity ALEY_GroupBryant_FPADD_VENDOR
+-- Compiling architecture RTL of ALEY_GroupBryant_FPADD_VENDOR
+
+} {} {}} {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_FLOATADD_PIPE.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_FLOATADD_PIPE.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package CLOCKS
+-- Loading package txt_util
+-- Compiling entity tb_ALEY_FLOATADD_PIPE
+-- Compiling architecture TESTBENCH of tb_ALEY_FLOATADD_PIPE
+-- Compiling configuration cfg_tb_ALEY_FLOATADD_PIPE
+-- Loading entity tb_ALEY_FLOATADD_PIPE
+-- Loading architecture TESTBENCH of tb_ALEY_FLOATADD_PIPE
+-- Loading entity CLOCK
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Loading entity ALEY_FLOATADD_PIPE
+
+} {} {}} {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_ADDCORE.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_GroupBryant_FPADD_ADDCORE.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Compiling entity ALEY_GroupBryant_FPADD_ADDCORE
+-- Compiling architecture RTL of ALEY_GroupBryant_FPADD_ADDCORE
+
+} {} {}} {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_FLOATADD.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/tb_ALEY_FLOATADD.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package CLOCKS
+-- Loading package txt_util
+-- Compiling entity tb_ALEY_FLOATADD
+-- Compiling architecture TESTBENCH of tb_ALEY_FLOATADD
+-- Compiling configuration cfg_tb_ALEY_FLOATADD
+-- Loading entity tb_ALEY_FLOATADD
+-- Loading architecture TESTBENCH of tb_ALEY_FLOATADD
+-- Loading entity CLOCK
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Loading entity ALEY_FLOATADD
+
+} {} {}} {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_FLOATADD_PIPIE.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/al3y0/OneDrive/Documents/Digital Systems 3/Aley_GroupBryant_Final/ALEY_FLOATADD_PIPIE.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package ATTRIBUTES
+-- Loading package std_logic_misc
+-- Compiling entity ALEY_FLOATADD_PIPE
+-- Compiling architecture RTL of ALEY_FLOATADD_PIPE
+
+} {} {}}
